@@ -26,7 +26,9 @@ coder la fonction build_rotation_matrix(theta)
 qui retourne une matrice de rotation
 
 """
-
+import numpy as np
+def rota (theta):
+    pass
 
 """
 
